@@ -23,3 +23,5 @@ Contents
 2. Main Script: Contains the major procedures and executable procedure to pass input file and retrieve output file.
 3. CreTab: Creates the tables required for Main Script to run
 4. ProFu: Defines supporting procedures and functions used in Main Script
+5. Poster (/Summary/COMP3820_Poster_Doxadvisors.pptx) entails detailed information about the internship experience
+6. Reflection statement (/Sumamry/Reflection.pdf) contains a reflection piece on my work ethics and behaviors during the internship.
